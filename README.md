@@ -1,5 +1,5 @@
 # E-commerce-Business-Performance-and-Customer-Behaviour-Analysis
-E-commerce Business Performance and Customer  Behaviour Analysis 
+
 
 Maven Fuzzy Factory is an e-commerce company that wants to understand how its website performs, 
 how customers interact with its products, which marketing channels generate sales, and how it can 
